@@ -53,3 +53,10 @@ Receives temperature data wirelessly and displays it.
 
 CIRCUIT DIAGRAM
 
+![Image](https://github.com/user-attachments/assets/f6550cc4-fd14-447c-b7c3-6436afb4eaf7)
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8b049643-eaac-4d68-b65f-5f9260ce3aaf)
+
+
